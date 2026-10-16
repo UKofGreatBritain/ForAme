@@ -4,7 +4,6 @@
   
  <tr>
  <td>
-
 <br>
   <details>
 <summary>$\color{#ffdfcc}{\textsf{ㅤㅤㅤㅤㅤAboutㅤmeㅤㅤㅤㅤㅤ}}$</summary>
