@@ -71,3 +71,13 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 </div>
 
 <br>
+
+<p align="center">⠀
+ <a href="https://democracy.atabook.org/"> <img src="https://github.com/user-attachments/assets/af6aa318-3830-433d-b491-3c27b2af6ffd" alt="sign ata!" width="130"></a>　　　
+<a href="https://meatfred.straw.page/"> <img src="https://github.com/user-attachments/assets/4dc45a58-4cb3-41fb-bb46-42ed2720c45e" alt="sign ata!" width="130"></a>　　　
+  <a href="https://thestates.straw.page/"> <img src="https://github.com/user-attachments/assets/9a6bdf5b-4d15-44bd-8e5d-4a404eee8a0a" alt="sign ata!" width="130"></a> 
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/702ae296-a5c1-4351-9009-03b4ff739efc" width="100%" />
+</p>
