@@ -81,3 +81,14 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 <p align="center">
 <img src="https://github.com/user-attachments/assets/702ae296-a5c1-4351-9009-03b4ff739efc" width="100%" />
 </p>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f8467079-c42e-431e-9f7a-0af1767483c5" width="50%" />
+</p>
+<br>
+<br>
+<p align="center">
+<a href="https://github.com/meatfred"> <img src="https://github.com/user-attachments/assets/9c49eafd-8f2c-4a33-bdaa-56a763d944f0" alt="sign ata!" width="130"></a>　　　
+<a href="https://github.com/UEnclave"> <img src="https://github.com/user-attachments/assets/58f0a804-9be0-4137-8a0c-e5dd089645ce" alt="sign ata!" width="130"></a>　　
+<a href="https://github.com/USofAmerica"> <img src="https://github.com/user-attachments/assets/6007b196-7b9f-460b-a526-cbe34336335b" alt="sign ata!" width="130"></a>　　
+</p>
