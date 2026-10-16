@@ -5,10 +5,29 @@
  <tr>
  <td>
 
-$${\color{#AB3759} — England }$$
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=AB3759&width=300&lines=Dieu+et+mon+droit.+;God+save+the+king." alt="Typing SVG" /></a>
 <br>
   <details>
-<summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤABOUTㅤMEㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#ffdfcc}{\textsf{ㅤㅤㅤㅤㅤAboutㅤmeㅤㅤㅤㅤㅤ}}$</summary>
     <br>
     <p align="center">
+    $${\color{#800020}roachㅤ :  }$$
+${\color{#ffdfcc}ameㅤ :ㅤ}$
+      $${\color{#0c1a63}patriotㅤㅤ}$$
+    <br>
+$${\color{#D7A5B5}they .  }$$
+$${\color{#800020} he .}$$
+      $${\color{#ffdfcc} it . }$$
+      $${\color{#800020} axe }$$
+    <br>
+$${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
+　　
+$${\color{#FFD5DC} ›ㅤㅤ England ㅤFictkin }$$
+<br>
+
+  </tr>
+   </td>
+   </p>
+    
+
+
+  </details>
