@@ -12,16 +12,16 @@
     <p align="center">
     $${\color{#800020}roachㅤ :  }$$
 ${\color{#ffdfcc}ameㅤ :ㅤ}$
-      $${\color{#0c1a63}patriotㅤㅤ}$$
+      $${\color{#1c309a}patriotㅤㅤ}$$
     <br>
-$${\color{#D7A5B5}they .  }$$
+$${\color{#1c309a}they .  }$$
 $${\color{#800020} he .}$$
       $${\color{#ffdfcc} it . }$$
       $${\color{#800020} axe }$$
     <br>
-$${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
+$${\color{#800020} alfred ㅤFICKTINㅤ .}$$
 　　
-$${\color{#FFD5DC} ›ㅤㅤ England ㅤFictkin }$$
+$${\color{#ffdfcc}texan. }$$
 <br>
 
   </tr>
