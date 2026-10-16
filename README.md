@@ -10,19 +10,21 @@
 <summary>$\color{#ffdfcc}{\textsf{ㅤㅤㅤㅤㅤAboutㅤmeㅤㅤㅤㅤㅤ}}$</summary>
     <br>
     <p align="center">
-    $${\color{#800020}roachㅤ :  }$$
+    $${\color{#1c309a}roachㅤ :  }$$
 ${\color{#ffdfcc}ameㅤ :ㅤ}$
-      $${\color{#1c309a}patriotㅤㅤ}$$
+      $${\color{#ffdfcc}patriotㅤㅤ}$$
     <br>
 $${\color{#1c309a}they .  }$$
-$${\color{#800020} he .}$$
+$${\color{#ffdfcc} he .}$$
       $${\color{#ffdfcc} it . }$$
-      $${\color{#800020} axe }$$
+      $${\color{#ffdfcc} axe }$$
     <br>
-$${\color{#800020} alfred ㅤFICKTINㅤ .}$$
+$${\color{#1c309a} alfred ㅤFICKTINㅤ .}$$
 　　
-$${\color{#ffdfcc}texan. }$$
+$${\color{#800020}texan. }$$
 <br>
+$${\color{#1c309a} 19 / adult }$$
+$${\color{#800020} ㅤengㅤ speaker  }$$
 
   </tr>
    </td>
