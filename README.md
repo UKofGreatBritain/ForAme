@@ -29,7 +29,14 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
   </tr>
    </td>
    </p>
-    
-
+</details>
+<br>
+<br>
+<br>
+<details>
+<summary>$\color{#ffdfcc}{\textsf{ㅤㅤㅤㅤㅤDNIㅤ/ㅤIWCㅤㅤㅤㅤㅤ}}$</summary>
+    <br>
 
   </details>
+<br>
+<br>
