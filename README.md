@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/f553a19d-3449-428a-966a-348e6a3c9546"></td>
+      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/0a3e4264-61b2-4213-868d-538fb4b07a65"></td>
       <td>
       <p align="center">
       $${\color{#1c309a}roachㅤ :  }$$
@@ -81,7 +81,7 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/702ae296-a5c1-4351-9009-03b4ff739efc" width="100%" />
+<img src="https://github.com/user-attachments/assets/3a622248-d7e9-4447-8a5d-fedfa6fd0285" width="100%" />
 </p>
 <br>
 <p align="center">
@@ -90,7 +90,6 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 <br>
 <br>
 <p align="center">
-<a href="https://github.com/meatfred"> <img src="https://github.com/user-attachments/assets/9e212e24-71ce-4e11-a9f9-afffb056cca5" alt="sign ata!" width="130"></a>　　　
 <a href="https://github.com/UEnclave"> <img src="https://github.com/user-attachments/assets/d8d27683-cf9b-4f88-af94-2d2194e852cd" alt="sign ata!" width="130"></a>　　
 <a href="https://github.com/USofAmerica"> <img src="https://github.com/user-attachments/assets/1217b022-e7e5-48bb-8a59-cd9186901fb3" alt="sign ata!" width="130"></a>　　
 </p>
