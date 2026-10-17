@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/f553a19d-3449-428a-966a-348e6a3c9546"></td>
+      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/e632bc97-0afe-43e0-b454-cef52253e0bc"></td>
       <td>
       <p align="center">
       $${\color{#1c309a}roachㅤ :  }$$
@@ -81,7 +81,7 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/702ae296-a5c1-4351-9009-03b4ff739efc" width="100%" />
+<img src="https://github.com/user-attachments/assets/de88dcbe-d147-46c1-8be8-8fd3602b6aba" width="100%" />
 </p>
 <br>
 <p align="center">
