@@ -75,9 +75,9 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 <br>
 
 <p align="center">⠀
- <a href="https://democracy.atabook.org/"> <img src="https://github.com/user-attachments/assets/af6aa318-3830-433d-b491-3c27b2af6ffd" alt="sign ata!" width="130"></a>　　　
-<a href="https://meatfred.straw.page/"> <img src="https://github.com/user-attachments/assets/4dc45a58-4cb3-41fb-bb46-42ed2720c45e" alt="sign ata!" width="130"></a>　　　
-  <a href="https://thestates.straw.page/"> <img src="https://github.com/user-attachments/assets/9a6bdf5b-4d15-44bd-8e5d-4a404eee8a0a" alt="sign ata!" width="130"></a> 
+ <a href="https://democracy.atabook.org/"> <img src="https://github.com/user-attachments/assets/3a3a2ad1-fe32-44d3-887a-47fd655e1d4f" alt="sign ata!" width="130"></a>　　　
+<a href="https://meatfred.straw.page/"> <img src="https://github.com/user-attachments/assets/986d6b56-4df4-4637-a73e-61e682e91ae5" alt="sign ata!" width="130"></a>　　　
+  <a href="https://thestates.straw.page/"> <img src="https://github.com/user-attachments/assets/7c8e01d0-1455-4b5c-99d2-7706768df533" alt="sign ata!" width="130"></a> 
 </p>
 <br>
 <p align="center">
@@ -90,7 +90,7 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 <br>
 <br>
 <p align="center">
-<a href="https://github.com/meatfred"> <img src="https://github.com/user-attachments/assets/9c49eafd-8f2c-4a33-bdaa-56a763d944f0" alt="sign ata!" width="130"></a>　　　
-<a href="https://github.com/UEnclave"> <img src="https://github.com/user-attachments/assets/58f0a804-9be0-4137-8a0c-e5dd089645ce" alt="sign ata!" width="130"></a>　　
-<a href="https://github.com/USofAmerica"> <img src="https://github.com/user-attachments/assets/6007b196-7b9f-460b-a526-cbe34336335b" alt="sign ata!" width="130"></a>　　
+<a href="https://github.com/meatfred"> <img src="https://github.com/user-attachments/assets/9e212e24-71ce-4e11-a9f9-afffb056cca5" alt="sign ata!" width="130"></a>　　　
+<a href="https://github.com/UEnclave"> <img src="https://github.com/user-attachments/assets/d8d27683-cf9b-4f88-af94-2d2194e852cd" alt="sign ata!" width="130"></a>　　
+<a href="https://github.com/USofAmerica"> <img src="https://github.com/user-attachments/assets/1217b022-e7e5-48bb-8a59-cd9186901fb3" alt="sign ata!" width="130"></a>　　
 </p>
