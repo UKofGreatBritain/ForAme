@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/0a3e4264-61b2-4213-868d-538fb4b07a65"></td>
+      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/e632bc97-0afe-43e0-b454-cef52253e0bc"></td>
       <td>
       <p align="center">
       $${\color{#1c309a}roachㅤ :  }$$
